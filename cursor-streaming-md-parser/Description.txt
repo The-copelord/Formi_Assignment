@@ -1,0 +1,2 @@
+To test the changes made to the code , i mainly used 'npx tsc' to compile the typescript code 
+'Copy-Item -Path ".\public\*" -Destination ".\dist" -Recurse -Force' was used to ensure files in /public are recursively copied to /dist 
